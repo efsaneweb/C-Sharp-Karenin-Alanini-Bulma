@@ -5,7 +5,7 @@ using System.Text;
 
 namespace sukruerdem
 {
-    class On_Numara_Oyunu
+    class kareal_efsaneweb
     {
         static void Main(string[] args)
         {
